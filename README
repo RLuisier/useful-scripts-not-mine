@@ -1,0 +1,1 @@
+It seems that gtf2bed.pl works better than gtf2bed.py, especially regarding the number of exons and introns. SO I'd rather use that script.
